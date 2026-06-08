@@ -14,4 +14,17 @@ Guardian is a dashboard interface designed to provide a clean and intuitive user
 
 ## Screenshots
 
-Coming Soon
+### Normal Condition
+![Normal Condition](screenshots/normal.png)
+
+### Over Heating Detection
+![Over Heating Detection](screenshots/over heating.png)
+
+### Peak Load Monitoring
+![Peak Load Monitoring](screenshots/peak load.png)
+
+### Phase Imbalance Detection
+![Phase Imbalance Detection](screenshots/phase imbalanc.png)
+
+### Voltage Drop Monitoring
+![Voltage Drop Monitoring](screenshots/voltage drop.png)
