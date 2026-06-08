@@ -4,9 +4,29 @@
 
 Guardian is a dashboard interface designed to provide a clean and intuitive user experience.
 
+## Problem Statement
+
+Traditional monitoring systems often lack a centralized and user-friendly interface. The goal of Guardian Dashboard is to provide an intuitive platform for monitoring electrical parameters and system conditions.
+
+## Objectives
+
+• Improve user experience through a clean dashboard design.
+• Provide real-time monitoring visualization.
+• Enable quick identification of system abnormalities.
+• Design a responsive and accessible interface.
+
 ## Tools Used
 
 - Figma
+- GitHub
+
+## Key Features
+
+• Normal Condition Monitoring
+• Over Heating Detection
+• Peak Load Monitoring
+• Phase Imbalance Detection
+• Voltage Drop Monitoring
 
 ## Prototype
 
@@ -28,3 +48,12 @@ Guardian is a dashboard interface designed to provide a clean and intuitive user
 
 ### Voltage Drop Monitoring
 ![Voltage Drop Monitoring](screenshots./voltagedrop.png)
+
+
+## Future Enhancements
+
+• Mobile-responsive dashboard design.
+• Real-time IoT data integration.
+• Interactive analytics and visualization.
+• Alert and notification system.
+• AI-based predictive maintenance features.
