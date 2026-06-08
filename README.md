@@ -24,7 +24,7 @@ Guardian is a dashboard interface designed to provide a clean and intuitive user
 ![Peak Load Monitoring](screenshots/peakload.png)
 
 ### Phase Imbalance Detection
-![Phase Imbalance Detection](screenshots/phaseimbalanc.png)
+![Phase Imbalance Detection](screenshots/phaseimbalance.png)
 
 ### Voltage Drop Monitoring
 ![Voltage Drop Monitoring](screenshots/voltagedrop.png)
