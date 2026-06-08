@@ -52,8 +52,8 @@ Traditional monitoring systems often lack a centralized and user-friendly interf
 
 ## Future Enhancements
 
-• Mobile-responsive dashboard design.
-• Real-time IoT data integration.
-• Interactive analytics and visualization.
-• Alert and notification system.
-• AI-based predictive maintenance features.
+- Mobile-responsive dashboard design.
+-  Real-time IoT data integration.
+-  Interactive analytics and visualization.
+-  Alert and notification system.
+-  AI -based predictive maintenance features.
